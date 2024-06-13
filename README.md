@@ -19,3 +19,5 @@
 ## Crear componentes como Home
 
 `ng g c components/home --skip-tests`
+
+## Crear estilos generales en el componente principal.css
